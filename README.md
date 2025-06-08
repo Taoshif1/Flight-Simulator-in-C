@@ -110,7 +110,7 @@ gcc main.c flight.c passenger.c ticket.c crew.c payment.c -o flight_system.exe
 
 * OUTPUT:
 
-  -![Screenshot 2025-05-22 021353](https://github.com/user-attachments/assets/1f33940e-36ff-4cfc-9c0e-94876e4996e8)
+  - ![Screenshot 2025-05-22 021353](https://github.com/user-attachments/assets/1f33940e-36ff-4cfc-9c0e-94876e4996e8)
   - ![Screenshot 2025-05-22 021405](https://github.com/user-attachments/assets/b8362983-6819-4d60-82c9-34d67fc70dac)
  - ![Screenshot 2025-05-22 021414](https://github.com/user-attachments/assets/ce64803a-415a-4b21-bfd1-bb1ac93b44e0)
  - ![Screenshot 2025-05-22 021423](https://github.com/user-attachments/assets/cb434b81-6c6b-4c24-9bec-9bcf01e3d7c7)
@@ -118,4 +118,7 @@ gcc main.c flight.c passenger.c ticket.c crew.c payment.c -o flight_system.exe
  - ![Screenshot 2025-05-22 021439](https://github.com/user-attachments/assets/ec6e6700-8b20-4e65-a341-b73b295e6d51)
  - ![Screenshot 2025-05-22 021449](https://github.com/user-attachments/assets/59f2f8fe-8a1a-4442-b7b0-02895d60c08d)
 
+* Doxygen:
 
+ - ![Screenshot 2025-05-22 235830](https://github.com/user-attachments/assets/533a4325-7e02-4aab-a6f8-06f5b004969e)
+---
