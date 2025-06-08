@@ -30,9 +30,8 @@ Every feature, function and file was written with purpose & intense brainstormin
 
 ---
 
-## ⚙️ System Features
+## ✅ Core Functionalities:
 
-### ✅ Core Functionalities:
 - **Flight Management**: Add ✈️ | Search 🔍 | Delete ❌ | Sort 🔃 | List 📋
 - **Passenger Management**: Add 👤 | Remove 🚫 | View Details 🧾
 - **Ticketing**: Book 🎫 | Cancel ❌ | Seat Management 💺
@@ -42,11 +41,7 @@ Every feature, function and file was written with purpose & intense brainstormin
 
 ---
 
-## 🧠 Technical Brilliance
-
----
-
-### ⚡ Highlights of Implementation:
+## ⚡ Highlights of Implementation:
 
 | Area | Implementation |
 |------|----------------|
@@ -74,10 +69,9 @@ Every file, function, struct and constant is documented using Doxygen-style comm
    doxygen Doxyfile
     ```
 3. Open:
-  ```
-  html/index.html for web-based docs
-  latex/refman.pdf for a LaTeX PDF report
-  ```
+
+  ```html/index.html``` for web-based docs
+  ```latex/refman.pdf``` for a LaTeX PDF report
 
 ---
 
