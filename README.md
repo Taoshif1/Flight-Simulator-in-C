@@ -1,6 +1,6 @@
 # ✈️ Flight Management System in C
 ---
-## 🚀 **A Journey into High-Performance Software Engineering**
+## 🚀 A Journey into High-Performance Software Engineering
 
 Welcome to the repository for my **Flight Management System**, a console-based C project crafted from the ground up – line by line – in **Notepad**. That’s right. No fancy IDEs. Just raw logic, hard-earned syntax and pure dedication.
 
