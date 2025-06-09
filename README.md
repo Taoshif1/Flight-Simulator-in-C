@@ -1,4 +1,4 @@
-# ✈️ **Flight Management System in C**  
+# ✈️ Flight Management System in C
 ---
 ## 🚀 **A Journey into High-Performance Software Engineering**
 
